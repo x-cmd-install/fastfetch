@@ -1,0 +1,61 @@
+about:
+  description: A maintained, feature-rich and performance oriented, neofetch like system information tool.
+  license: MIT
+  homepage: 
+  head: 4863a17
+  archived: false
+  latestVersion: 2.67.1
+  collectedAt: 2026-09-01T05:37:13Z
+timeline:
+  created: 2021-02-18
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-14
+popularity:
+  star: 24469
+  watcher: 63
+  fork: 869
+  release: 182
+  contributor: 240
+  pullRequest: 212
+  issue: 1349
+language:
+  C: 3704708
+  C++: 267805
+  CMake: 93441
+  Objective-C: 55114
+  Python: 13304
+  Shell: 12903
+totalLine: 4147275
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 18
+    openPR: 9
+    closedIssue: 15
+    openIssue: 12
+    commit: 135
+  last90d:
+    since: 2026-06-03
+    release: 8
+    mergedPR: 39
+    openPR: 15
+    closedIssue: 64
+    openIssue: 23
+    commit: 360
+  last180d:
+    since: 2026-03-05
+    release: 14
+    mergedPR: 69
+    openPR: 18
+    closedIssue: 132
+    openIssue: 28
+    commit: 837
+  last360d:
+    since: 2025-09-06
+    release: 24
+    mergedPR: 115
+    openPR: 21
+    closedIssue: 259
+    openIssue: 45
+    commit: 1316
