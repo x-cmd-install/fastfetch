@@ -5,13 +5,13 @@ about:
   head: a70c37f
   archived: false
   latestVersion: "2.68.1"
-  collectedAt: 2026-09-07T05:16:50Z
+  collectedAt: 2026-09-07T19:13:57Z
 timeline:
   created: 2021-02-18
   lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
-  star: 24545
+  star: 24556
   watcher: 65
   fork: 876
   release: 185
@@ -84,7 +84,7 @@ total:
   commit: 7793
 ---
 path: /home/runner/.x-repo/github.com/fastfetch-cli/fastfetch
-collectedAt: 2026-09-07T05:16:54Z
+collectedAt: 2026-09-07T19:14:01Z
 loc:
   C:
     code: 77818
@@ -190,7 +190,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:16:55+00:00
+  collectedAt: 2026-09-07T19:14:01+00:00
   platform:
     darwin/arm64:
       name:  fastfetch-macos-aarch64.tar.gz
