@@ -2,22 +2,22 @@ about:
   description: "A maintained, feature-rich and performance oriented, neofetch like system information tool."
   license: MIT
   homepage: 
-  head: 7d0256f
+  head: 222fe7e
   archived: false
   latestVersion: "2.68.1"
   latestRelease: "2.68.1"
   latestPrerelease: "2.68.0"
-  collectedAt: 2026-09-09T05:16:03Z
+  collectedAt: 2026-09-09T19:35:16Z
 timeline:
   created: 2021-02-18
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-01
   lastRelease: 2026-09-01
   lastPrerelease: 2026-09-01
 popularity:
-  star: 24572
+  star: 24576
   watcher: 65
-  fork: 878
+  fork: 879
   release: 185
   contributor: 241
   pullRequest: 888
@@ -38,7 +38,7 @@ recent:
     openPR: 11
     closedIssue: 16
     openIssue: 13
-    commit: 133
+    commit: 134
   last60d:
     since: 2026-07-11
     release: 5
@@ -46,7 +46,7 @@ recent:
     openPR: 13
     closedIssue: 37
     openIssue: 21
-    commit: 229
+    commit: 230
   last90d:
     since: 2026-06-11
     release: 8
@@ -54,7 +54,7 @@ recent:
     openPR: 16
     closedIssue: 56
     openIssue: 24
-    commit: 354
+    commit: 355
   last180d:
     since: 2026-03-13
     release: 16
@@ -62,7 +62,7 @@ recent:
     openPR: 21
     closedIssue: 134
     openIssue: 31
-    commit: 828
+    commit: 829
   last360d:
     since: 2025-09-14
     release: 27
@@ -70,7 +70,7 @@ recent:
     openPR: 24
     closedIssue: 260
     openIssue: 47
-    commit: 1327
+    commit: 1328
   last720d:
     since: 2024-09-19
     release: 69
@@ -78,27 +78,27 @@ recent:
     openPR: 24
     closedIssue: 624
     openIssue: 59
-    commit: 2895
+    commit: 2896
 total:
   release: 185
   mergedPR: 673
   openPR: 25
   closedIssue: 1296
   openIssue: 61
-  commit: 7794
+  commit: 7795
 ---
 path: /home/runner/.x-repo/github.com/fastfetch-cli/fastfetch
-collectedAt: 2026-09-09T05:16:09Z
+collectedAt: 2026-09-09T19:35:26Z
 loc:
   C:
-    code: 77823
-    comments: 3071
-    blanks: 11565
+    code: 78195
+    comments: 3086
+    blanks: 11593
     files: 506
   CHeader:
-    code: 19216
-    comments: 11026
-    blanks: 3710
+    code: 19349
+    comments: 11106
+    blanks: 3734
     files: 311
   Json:
     code: 5922
@@ -186,9 +186,9 @@ loc:
     blanks: 24
     files: 530
 total:
-  code: 115526
-  comments: 27805
-  blanks: 17549
+  code: 116031
+  comments: 27900
+  blanks: 17601
   files: 1441
 ---
 
