@@ -1,40 +1,13 @@
-- repo: kali_rolling
-  subrepo: main
+- repo: rebornos
   srcname: fastfetch
-  binnames:
-    - fastfetch
+  binname: fastfetch
   visiblename: fastfetch
-  version: 2.66.0
-  origversion: 2.66.0+dfsg-1
+  version: 1.11.1
+  origversion: 1.11.1-1
   status: outdated
-  maintainers:
-    - hiago@defranco.dev.br
-    - charlesmelara@riseup.net
-    - maytham@debian.org
-  categories:
-    - misc
-- repo: haikuports_master
-  srcname: app-misc/fastfetch
-  visiblename: app-misc/fastfetch
-  version: 2.67.1
-  origversion: null
-  status: outdated
-  categories:
-    - app-misc
-- repo: homebrew
-  srcname: fastfetch
-  visiblename: fastfetch
-  version: 2.68.1
-  origversion: null
-  status: newest
-  summary: Like neofetch, but much faster because written mostly in C
-- repo: homebrew
-  srcname: fastfetch
-  visiblename: fastfetch
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Like neofetch, but much faster because written mostly in C
+  summary: Like Neofetch, but much faster because written in C
+  licenses:
+    - MIT
 - repo: adelie_current
   subrepo: user
   srcname: fastfetch
@@ -211,21 +184,6 @@
   summary: Neofetch-like system information fetching tool (manual pages)
   licenses:
     - MIT
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: fastfetch
-  binnames:
-    - fastfetch
-  visiblename: fastfetch
-  version: 2.67.1
-  origversion: 2.67.1+dfsg-1
-  status: outdated
-  maintainers:
-    - hiago@defranco.dev.br
-    - charlesmelara@riseup.net
-    - maytham@debian.org
-  categories:
-    - misc
 - repo: alpine_3_22
   subrepo: community
   srcname: fastfetch
@@ -315,6 +273,17 @@
   summary: Bash completions for fastfetch
   maintainers:
     - achill@achill.org
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: galaxy
+  srcname: fastfetch
+  binname: fastfetch
+  visiblename: fastfetch
+  version: 2.67.1
+  origversion: 2.67.1-1
+  status: outdated
+  summary: A feature-rich and performance oriented neofetch like system information tool
   licenses:
     - MIT
 - repo: alpine_3_23
@@ -583,17 +552,6 @@
     - fabiololix@aur
   licenses:
     - MIT
-- repo: artix
-  subrepo: galaxy
-  srcname: fastfetch
-  binname: fastfetch
-  visiblename: fastfetch
-  version: 2.67.1
-  origversion: 2.67.1-1
-  status: outdated
-  summary: A feature-rich and performance oriented neofetch like system information tool
-  licenses:
-    - MIT
 - repo: chimera
   subrepo: main
   srcname: fastfetch
@@ -760,6 +718,21 @@
     - hiagofranco@gmail.com
     - charlesmelara@riseup.net
     - maytham@debian.org
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: fastfetch
+  binnames:
+    - fastfetch
+  visiblename: fastfetch
+  version: 2.67.1
+  origversion: 2.67.1+dfsg-1
+  status: outdated
+  maintainers:
+    - hiago@defranco.dev.br
+    - charlesmelara@riseup.net
+    - maytham@debian.org
+  categories:
+    - misc
 - repo: epel_8
   srcname: fastfetch
   visiblename: fastfetch
@@ -849,6 +822,13 @@
     - MIT
   categories:
     - Unspecified
+- repo: homebrew
+  srcname: fastfetch
+  visiblename: fastfetch
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Like neofetch, but much faster because written mostly in C
 - repo: fedora_40
   subrepo: release
   srcname: fastfetch
@@ -943,20 +923,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: fastfetch
-  binnames:
-    - fastfetch
-  visiblename: fastfetch
-  version: 2.66.0
-  origversion: 2.66.0-1.fc43
-  status: outdated
-  summary: Fast neofetch-like system information tool
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: fastfetch
   binnames:
@@ -965,6 +931,20 @@
   version: 2.48.1
   origversion: 2.48.1-2.fc43
   status: legacy
+  summary: Fast neofetch-like system information tool
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: fastfetch
+  binnames:
+    - fastfetch
+  visiblename: fastfetch
+  version: 2.66.0
+  origversion: 2.66.0-1.fc43
+  status: outdated
   summary: Fast neofetch-like system information tool
   licenses:
     - MIT
@@ -1115,6 +1095,36 @@
     - MIT
   categories:
     - app-misc
+- repo: haikuports_master
+  srcname: app-misc/fastfetch
+  visiblename: app-misc/fastfetch
+  version: 2.67.1
+  origversion: null
+  status: outdated
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: fastfetch
+  visiblename: fastfetch
+  version: 2.68.1
+  origversion: null
+  status: newest
+  summary: Like neofetch, but much faster because written mostly in C
+- repo: kali_rolling
+  subrepo: main
+  srcname: fastfetch
+  binnames:
+    - fastfetch
+  visiblename: fastfetch
+  version: 2.66.0
+  origversion: 2.66.0+dfsg-1
+  status: outdated
+  maintainers:
+    - hiago@defranco.dev.br
+    - charlesmelara@riseup.net
+    - maytham@debian.org
+  categories:
+    - misc
 - repo: kaos
   subrepo: apps
   srcname: fastfetch
@@ -1930,16 +1940,6 @@
     - maytham@debian.org
   categories:
     - misc
-- repo: rebornos
-  srcname: fastfetch
-  binname: fastfetch
-  visiblename: fastfetch
-  version: 1.11.1
-  origversion: 1.11.1-1
-  status: outdated
-  summary: Like Neofetch, but much faster because written in C
-  licenses:
-    - MIT
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: fastfetch
@@ -2171,7 +2171,7 @@
   status: newest
   summary: Like Neofetch, but much faster because written in C
   maintainers:
-    - fallback-mnt-vylen@repology
+    - wonkru-dev@proton.me
 - repo: wikidata
   srcname: Q130565152
   visiblename: Fastfetch

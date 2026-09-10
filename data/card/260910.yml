@@ -7,7 +7,7 @@ about:
   latestVersion: "2.68.1"
   latestRelease: "2.68.1"
   latestPrerelease: "2.68.0"
-  collectedAt: 2026-09-10T20:39:18Z
+  collectedAt: 2026-09-10T23:10:43Z
 timeline:
   created: 2021-02-18
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 2026-09-01
 popularity:
-  star: 24577
+  star: 24579
   watcher: 65
   fork: 882
   release: 185
@@ -88,7 +88,7 @@ total:
   commit: 7795
 ---
 path: /home/runner/.x-repo/github.com/fastfetch-cli/fastfetch
-collectedAt: 2026-09-10T20:39:23Z
+collectedAt: 2026-09-10T23:10:47Z
 loc:
   C:
     code: 78195
