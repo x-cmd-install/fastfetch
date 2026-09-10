@@ -12,7 +12,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 x install fastfetch
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **115,908** 行代码（覆盖前 5 种语言、共 **849** 个文件）。
 
@@ -37,7 +37,7 @@ x install fastfetch
 
 ## 流行度
 
-- **Star**: 24,577 · **Fork**: 882 · **开放 issue**: 1,359 · **贡献者**: 242
+- **Star**: 24,579 · **Fork**: 882 · **开放 issue**: 1,359 · **贡献者**: 242
 
 ## 累计统计
 
@@ -135,7 +135,7 @@ x install fastfetch
 | Debian 13 | `2.40.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.57.1` | ⚠️ outdated |
 | Arch | `2.68.1` | ✅ latest |
-| Homebrew | `2.68.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.68.1` | ✅ latest |
 | Nix unstable | `2.68.1` | ✅ latest |
 | Void | `2.67.1` | ⚠️ outdated |
@@ -151,4 +151,4 @@ fastfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:39:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:10:54Z._
