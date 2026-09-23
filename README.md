@@ -4,7 +4,7 @@
 
 A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
-[![x-cmd/install — fastfetch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fastfetch.svg)](https://x-cmd.com/install/fastfetch)
+[![x-cmd/install — fastfetch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fastfetch.svg)](https://x-cmd.com/install/fastfetch)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **127,640** lines of code across **909** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 24,721 · **Forks**: 899 · **Open issues**: 1,368 · **Contributors**: 244
+- **Stars**: 24,734 · **Forks**: 898 · **Open issues**: 1,368 · **Contributors**: 244
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 680 · **Open PRs**: 29 · **Closed issues**: 1306 · **Open issues**: 62 · **Commits**: 7879
+- **Releases**: 185 · **Merged PRs**: 680 · **Open PRs**: 30 · **Closed issues**: 1307 · **Open issues**: 61 · **Commits**: 7879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 15 | 11 | 16 | 8 | 139 |
-| last60d | 2026-07-24 | 5 | 33 | 16 | 33 | 18 | 277 |
-| 90d | 2026-06-24 | 8 | 46 | 20 | 56 | 24 | 376 |
-| last180d | 2026-03-26 | 16 | 78 | 24 | 133 | 32 | 822 |
-| 360d | 2025-09-27 | 26 | 126 | 28 | 258 | 48 | 1364 |
-| last720d | 2024-10-02 | 66 | 276 | 28 | 618 | 60 | 2883 |
+| 30d | 2026-08-24 | 3 | 15 | 12 | 16 | 6 | 139 |
+| last60d | 2026-07-25 | 5 | 33 | 17 | 34 | 17 | 277 |
+| 90d | 2026-06-25 | 7 | 45 | 21 | 57 | 23 | 376 |
+| last180d | 2026-03-27 | 16 | 78 | 25 | 134 | 31 | 822 |
+| 360d | 2025-09-28 | 26 | 125 | 29 | 257 | 46 | 1364 |
+| last720d | 2024-10-03 | 66 | 276 | 29 | 619 | 59 | 2882 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:30:16Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:40:40Z._
