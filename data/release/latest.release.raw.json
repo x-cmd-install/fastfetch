@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5484596,
       "digest": "sha256:b73bccb53e0009ace83c7ef10193eaff97f827d87b2b451f78ac2aad1dded4af",
-      "download_count": 72,
+      "download_count": 76,
       "created_at": "2026-09-25T11:19:41Z",
       "updated_at": "2026-09-25T11:19:42Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-dragonfly-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5509152,
       "digest": "sha256:73e186df9e3353ae4e998c0d72658965caab1a12d8f1baed2144a8e504bc0086",
-      "download_count": 56,
+      "download_count": 62,
       "created_at": "2026-09-25T11:19:40Z",
       "updated_at": "2026-09-25T11:19:41Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-dragonfly-amd64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2954376,
       "digest": "sha256:17556e69b9efff9aeffadc27b1a85e866fd025c5b4a03c87f604b924741da754",
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2026-09-25T11:19:40Z",
       "updated_at": "2026-09-25T11:19:40Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-freebsd-amd64.pkg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4379348,
       "digest": "sha256:530a82aa3fb15e85bf89e941ca1f764aca91678a3e2234f57c0ad2c933d11397",
-      "download_count": 31,
+      "download_count": 33,
       "created_at": "2026-09-25T11:19:38Z",
       "updated_at": "2026-09-25T11:19:39Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-freebsd-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6170791,
       "digest": "sha256:8232c46f7671f987da7f6afac30d644a9eeea6b3bed9b1008a36adfaed509019",
-      "download_count": 28,
+      "download_count": 31,
       "created_at": "2026-09-25T11:19:37Z",
       "updated_at": "2026-09-25T11:19:38Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-haiku-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6194630,
       "digest": "sha256:c504a8c13a9aff051a9afa60a366b66b8a19d6683c6ebc045b625298559d03c8",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-09-25T11:19:36Z",
       "updated_at": "2026-09-25T11:19:37Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-haiku-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1654978,
       "digest": "sha256:c5e9065d3377bf33a2d6adfdbc6f08a27cbd56b84fc90bd933eb935d57076efb",
-      "download_count": 358,
+      "download_count": 408,
       "created_at": "2026-09-25T11:19:36Z",
       "updated_at": "2026-09-25T11:19:36Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64-polyfilled.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1665796,
       "digest": "sha256:b3fc7b7c87db5a3c938d0344ac3b81aba96443c58df51587baa2ebe85241130b",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-09-25T11:19:35Z",
       "updated_at": "2026-09-25T11:19:35Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64-polyfilled.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1653695,
       "digest": "sha256:426d44e424ae8f811610e2b6c94ebf7cfcc1ae372813c47c19cbf65f08f8af93",
-      "download_count": 68,
+      "download_count": 79,
       "created_at": "2026-09-25T11:19:34Z",
       "updated_at": "2026-09-25T11:19:34Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64-polyfilled.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7032516,
       "digest": "sha256:0ce0a8d10b0390b6b4b2e1da5eb6fd840272fd21d07460caed59ba7b8a522975",
-      "download_count": 1175,
+      "download_count": 1293,
       "created_at": "2026-09-25T11:19:32Z",
       "updated_at": "2026-09-25T11:19:33Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1571041,
       "digest": "sha256:a439e8b5ff890d60879d5bc6bd52bb852d03b2bb07f2b3f5731a4df8c4bf3df9",
-      "download_count": 68,
+      "download_count": 74,
       "created_at": "2026-09-25T11:19:32Z",
       "updated_at": "2026-09-25T11:19:32Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7031266,
       "digest": "sha256:843a0d4e3d604efc7cce18df1efcc09b00a1960cfea9949118b50bf999694027",
-      "download_count": 364,
+      "download_count": 420,
       "created_at": "2026-09-25T11:19:30Z",
       "updated_at": "2026-09-25T11:19:31Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7057065,
       "digest": "sha256:f10d1b8f34001e0b402f4edb6a7d17b5a544b0b88f1e5e10f27eff4e01958bfb",
-      "download_count": 45,
+      "download_count": 50,
       "created_at": "2026-09-25T11:19:29Z",
       "updated_at": "2026-09-25T11:19:30Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-aarch64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1741468,
       "digest": "sha256:5bd405872a910e7d752777602fd4cfb825f6c373daba15cda916512f03324ce7",
-      "download_count": 469,
+      "download_count": 537,
       "created_at": "2026-09-25T11:19:28Z",
       "updated_at": "2026-09-25T11:19:29Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64-polyfilled.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1747835,
       "digest": "sha256:78f6f6ac7b237ba2abedeb0a8498ce7f95f4485f184489a038a60a67e03cae24",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-09-25T11:19:27Z",
       "updated_at": "2026-09-25T11:19:28Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64-polyfilled.rpm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1739510,
       "digest": "sha256:3b97d4a18106987ed8fdae06f853a3381a1ba1623c97fe6261d32cd0e8514e1f",
-      "download_count": 117,
+      "download_count": 133,
       "created_at": "2026-09-25T11:19:26Z",
       "updated_at": "2026-09-25T11:19:27Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64-polyfilled.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1762230,
       "digest": "sha256:45a7b22445dd259f8ddc089717ac8a4143982230d109207228c133a2b235d2b5",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-09-25T11:19:26Z",
       "updated_at": "2026-09-25T11:19:26Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64-polyfilled.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 7192316,
       "digest": "sha256:cd91bc80ba416e2089e4dd40ea087e9e02028aeeb65988f92e17ede8da1c1bda",
-      "download_count": 3369,
+      "download_count": 3847,
       "created_at": "2026-09-25T11:19:24Z",
       "updated_at": "2026-09-25T11:19:25Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1625869,
       "digest": "sha256:8e94681a28e092e4bbced3f0f04bb898e6914e720b42239c04ea61ea7effcb91",
-      "download_count": 198,
+      "download_count": 211,
       "created_at": "2026-09-25T11:19:24Z",
       "updated_at": "2026-09-25T11:19:24Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64.rpm"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 7188706,
       "digest": "sha256:9fe880a34de3fec88e57a69230c02fd7be0846db3f3ea9f88f2b74489a79ff55",
-      "download_count": 2127,
+      "download_count": 2597,
       "created_at": "2026-09-25T11:19:23Z",
       "updated_at": "2026-09-25T11:19:24Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 7212893,
       "digest": "sha256:654218427744167acb073b0948fd8fb0c7cc2d3c41648dc6e7c7510f7eb3e47e",
-      "download_count": 117,
+      "download_count": 129,
       "created_at": "2026-09-25T11:19:22Z",
       "updated_at": "2026-09-25T11:19:23Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 6731284,
       "digest": "sha256:44af5290f51e61cdfde6946fdb147c0a65b402b67bc80b6b2bc65e3c07570af6",
-      "download_count": 301,
+      "download_count": 342,
       "created_at": "2026-09-25T11:19:21Z",
       "updated_at": "2026-09-25T11:19:22Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-armv7l.deb"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 1238270,
       "digest": "sha256:e783f8e93a27edb57b6d79ebeb6a6b340c9c0e00fe90c43832fdfba24cd8c369",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-25T11:19:20Z",
       "updated_at": "2026-09-25T11:19:21Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-armv7l.rpm"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 6729481,
       "digest": "sha256:186b96543fdca46ecb53eccddd1ad34ec419b3bbe3fb059798eac50157c86c01",
-      "download_count": 38,
+      "download_count": 46,
       "created_at": "2026-09-25T11:19:19Z",
       "updated_at": "2026-09-25T11:19:20Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-armv7l.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 7381154,
       "digest": "sha256:94e18dd7a7868af1fa0dc1507afaba4bb6af5b48bbd180aa735f97e0a50fdcd1",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-09-25T11:19:17Z",
       "updated_at": "2026-09-25T11:19:18Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-i686.deb"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 1623326,
       "digest": "sha256:6d691d7550389c5ab04fbad68c8dedd6b53fd9938de7b4b057c87b56384fcb4b",
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2026-09-25T11:19:17Z",
       "updated_at": "2026-09-25T11:19:17Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-i686.rpm"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 7379884,
       "digest": "sha256:4a62e15d56a5a5be8acd8cb677baa6eda96db3a5d0c1256b345ae03daf1db649",
-      "download_count": 53,
+      "download_count": 57,
       "created_at": "2026-09-25T11:19:16Z",
       "updated_at": "2026-09-25T11:19:16Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-i686.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 6869996,
       "digest": "sha256:0a3f31f9ea173f09dc5a6554cb32e851436d9b110f00f5c45e3cf86f4d396ffa",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-09-25T11:19:14Z",
       "updated_at": "2026-09-25T11:19:14Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-loongarch64.deb"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 5248558,
       "digest": "sha256:0cff50afe3f988032ff8b56d8aaf738a8387e87fcab23f7f4741697762fea897",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-25T11:19:13Z",
       "updated_at": "2026-09-25T11:19:13Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-loongarch64.rpm"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 6989788,
       "digest": "sha256:2d1a765fa3518627878f32795981af60237371c43df3604ae3d21be57308c917",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-09-25T11:19:10Z",
       "updated_at": "2026-09-25T11:19:11Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-ppc64le.deb"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 1444983,
       "digest": "sha256:6c311d4b8e989d62b562d59d998ded865ec9a2475aa1b858df07b0af4dd56c3b",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-09-25T11:19:09Z",
       "updated_at": "2026-09-25T11:19:10Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-ppc64le.rpm"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 6355298,
       "digest": "sha256:8013cc8f6a3a1eb671987b9738e4bb099771550ca26a37bc7e79070fb436e645",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-09-25T11:19:06Z",
       "updated_at": "2026-09-25T11:19:07Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-riscv64.deb"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 1331695,
       "digest": "sha256:a55f5ffc4274303eae364952b856b378f6ac5ea33f1daaa009264daf58814cdf",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-25T11:19:06Z",
       "updated_at": "2026-09-25T11:19:06Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-riscv64.rpm"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 6352670,
       "digest": "sha256:03b9fbad220e0bb46a9d529c8cc4aedf9760122c22d13cb4ff86ded249ae4f2b",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-25T11:19:05Z",
       "updated_at": "2026-09-25T11:19:05Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-riscv64.tar.gz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 7040652,
       "digest": "sha256:619164e3960afef984c861c408ffada6cb478ea3f2bdf2aae81d5003cdeb55b8",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-25T11:19:03Z",
       "updated_at": "2026-09-25T11:19:04Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-s390x.deb"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 1440459,
       "digest": "sha256:9f51153a619d0b40232aa4e88e09ce3655d63286a15a03ed4e34edb286eb159d",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-09-25T11:19:02Z",
       "updated_at": "2026-09-25T11:19:03Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-s390x.rpm"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 1024253,
       "digest": "sha256:3901a90b11f1823a00fea6f3c3c877e7f336465e9d9facc98fd6b8803e8fac7e",
-      "download_count": 446,
+      "download_count": 480,
       "created_at": "2026-09-25T11:19:00Z",
       "updated_at": "2026-09-25T11:19:00Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-macos-aarch64.tar.gz"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 1048515,
       "digest": "sha256:511ac3292f1c6a2458e9b9b770a335019117fc4ff0d23f49e0c00126295a60a1",
-      "download_count": 91,
+      "download_count": 97,
       "created_at": "2026-09-25T11:18:59Z",
       "updated_at": "2026-09-25T11:18:59Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-macos-aarch64.zip"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 1099038,
       "digest": "sha256:ec6ea2aed26df0561c9331526f1f4289f4285b11f7e3910c29f0b66766b635f1",
-      "download_count": 174,
+      "download_count": 192,
       "created_at": "2026-09-25T11:18:58Z",
       "updated_at": "2026-09-25T11:18:59Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-macos-amd64.tar.gz"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 1122177,
       "digest": "sha256:db8292c5bd7906e6b08fdf956ad5198188d69f21c7ec590443f328371f6d896d",
-      "download_count": 109,
+      "download_count": 117,
       "created_at": "2026-09-25T11:18:58Z",
       "updated_at": "2026-09-25T11:18:58Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-macos-amd64.zip"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 6731022,
       "digest": "sha256:e680dd3752472d9042cc297424e80198cea9b258aeecaf8af140b3e48e92689d",
-      "download_count": 42,
+      "download_count": 49,
       "created_at": "2026-09-25T11:18:57Z",
       "updated_at": "2026-09-25T11:18:57Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-musl-amd64.tar.gz"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 8290387,
       "digest": "sha256:8ab9562578802e8cf51529b539395dcdecc27b9eb0c61becb5624f9c2071c665",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-25T11:18:48Z",
       "updated_at": "2026-09-25T11:18:49Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-solaris-amd64.zip"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 5291031,
       "digest": "sha256:454e48b8aa3c25698b9dbf80ba8e9267c64b78d1ee2715ad3276dfe18ac87a82",
-      "download_count": 309,
+      "download_count": 342,
       "created_at": "2026-09-25T11:18:47Z",
       "updated_at": "2026-09-25T11:18:47Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-windows-aarch64.zip"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 3361493,
       "digest": "sha256:5e542096c2312bd8045f161ecf37f8c586747a67a59d405b2ed3fe74f0e31c2d",
-      "download_count": 2911,
+      "download_count": 3115,
       "created_at": "2026-09-25T11:18:46Z",
       "updated_at": "2026-09-25T11:18:46Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-windows-amd64.7z"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 5574339,
       "digest": "sha256:aba011c1c45d1a6bdcf52098dd0b9afe990fe444180bc491e87f36670f1452ef",
-      "download_count": 11676,
+      "download_count": 12954,
       "created_at": "2026-09-25T11:18:45Z",
       "updated_at": "2026-09-25T11:18:45Z",
       "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-windows-amd64.zip"
