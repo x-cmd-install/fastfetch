@@ -14,12 +14,12 @@ x install fastfetch
 
 ## Code insight
 
-Total: **135,234** lines of code across **911** files in the top 5 languages.
+Total: **135,569** lines of code across **911** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 94,566 | 6,965 | 14,123 | 525 |
-| CHeader | 20,631 | 12,270 | 4,097 | 328 |
+| C | 94,903 | 7,101 | 14,199 | 525 |
+| CHeader | 20,629 | 12,272 | 4,097 | 328 |
 | Json | 6,036 | 0 | 2 | 6 |
 | Bitbake | 5,894 | 1,160 | 26 | 26 |
 | Cpp | 2,768 | 205 | 546 | 26 |
@@ -37,22 +37,22 @@ Total: **135,234** lines of code across **911** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 24,975 · **Forks**: 921 · **Open issues**: 1,384 · **Contributors**: 251
+- **Stars**: 24,986 · **Forks**: 924 · **Open issues**: 1,383 · **Contributors**: 251
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 695 · **Open PRs**: 36 · **Closed issues**: 1319 · **Open issues**: 65 · **Commits**: 7996
+- **Releases**: 186 · **Merged PRs**: 695 · **Open PRs**: 37 · **Closed issues**: 1318 · **Open issues**: 65 · **Commits**: 7999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 20 | 14 | 15 | 10 | 158 |
-| last60d | 2026-08-12 | 5 | 39 | 23 | 34 | 18 | 300 |
-| 90d | 2026-07-13 | 6 | 54 | 25 | 57 | 26 | 416 |
-| last180d | 2026-04-14 | 16 | 88 | 31 | 131 | 35 | 852 |
-| 360d | 2025-10-16 | 27 | 139 | 35 | 250 | 50 | 1430 |
-| last720d | 2024-10-21 | 65 | 281 | 35 | 608 | 63 | 2892 |
+| 30d | 2026-09-12 | 1 | 20 | 15 | 14 | 9 | 161 |
+| last60d | 2026-08-13 | 5 | 38 | 23 | 32 | 18 | 303 |
+| 90d | 2026-07-14 | 6 | 54 | 26 | 52 | 26 | 419 |
+| last180d | 2026-04-15 | 16 | 88 | 32 | 130 | 35 | 855 |
+| 360d | 2025-10-17 | 27 | 138 | 36 | 249 | 50 | 1433 |
+| last720d | 2024-10-22 | 65 | 281 | 36 | 607 | 63 | 2895 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:09:03Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:25:59Z._
