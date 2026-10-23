@@ -37,22 +37,22 @@ Total: **136,559** lines of code across **913** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,099 · **Forks**: 929 · **Open issues**: 1,391 · **Contributors**: 251
+- **Stars**: 25,112 · **Forks**: 928 · **Open issues**: 1,392 · **Contributors**: 251
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 697 · **Open PRs**: 41 · **Closed issues**: 1321 · **Open issues**: 70 · **Commits**: 8015
+- **Releases**: 187 · **Merged PRs**: 697 · **Open PRs**: 42 · **Closed issues**: 1320 · **Open issues**: 72 · **Commits**: 8015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 17 | 16 | 12 | 12 | 107 |
-| last60d | 2026-08-23 | 5 | 32 | 25 | 31 | 17 | 288 |
-| 90d | 2026-07-24 | 7 | 50 | 30 | 48 | 26 | 421 |
-| last180d | 2026-04-25 | 15 | 87 | 36 | 126 | 40 | 842 |
-| 360d | 2025-10-27 | 27 | 140 | 40 | 243 | 54 | 1446 |
-| last720d | 2024-11-01 | 65 | 279 | 40 | 599 | 68 | 2869 |
+| 30d | 2026-09-23 | 2 | 16 | 13 | 10 | 13 | 107 |
+| last60d | 2026-08-24 | 5 | 32 | 26 | 30 | 18 | 288 |
+| 90d | 2026-07-25 | 7 | 50 | 31 | 48 | 28 | 421 |
+| last180d | 2026-04-26 | 15 | 87 | 37 | 125 | 42 | 842 |
+| 360d | 2025-10-28 | 27 | 140 | 41 | 241 | 56 | 1446 |
+| last720d | 2024-11-02 | 65 | 279 | 41 | 598 | 70 | 2858 |
 
 ## Release assets
 
@@ -128,6 +128,24 @@ Total: **136,559** lines of code across **913** files in the top 5 languages.
 | [fastfetch-windows-amd64.7z](https://github.com/fastfetch-cli/fastfetch/releases/download/2.70.0/fastfetch-windows-amd64.7z) | 777.2 KiB | `native/win/x64` |
 | [fastfetch-windows-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.70.0/fastfetch-windows-amd64.zip) | 1.4 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **165** distros on [repology.org](https://repology.org/project/fastfetch). **40** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.69.0` | ⚠️ outdated |
+| Debian 14 | `2.69.0` | ⚠️ outdated |
+| Debian 13 | `2.40.4` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.57.1` | ⚠️ outdated |
+| Arch | `2.70.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Fedora rawhide | `2.70.0` | ✅ latest |
+| Nix unstable | `2.70.0` | ✅ latest |
+| Void | `2.69.0` | ⚠️ outdated |
+| Alpine edge | `2.70.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.70.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fastfetch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -137,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:08:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:19:33Z._
