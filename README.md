@@ -32,27 +32,27 @@ Total: **137,810** lines of code across **918** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.71.0` (2026-11-06)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-07
 - **Assets in release**: 69
 
 ## Popularity
 
-- **Stars**: 25,286 · **Forks**: 942 · **Open issues**: 1,411 · **Contributors**: 259
+- **Stars**: 25,287 · **Forks**: 941 · **Open issues**: 1,411 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 710 · **Open PRs**: 45 · **Closed issues**: 1333 · **Open issues**: 78 · **Commits**: 8044
+- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 45 · **Closed issues**: 1333 · **Open issues**: 78 · **Commits**: 8045
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 15 | 14 | 13 | 18 | 69 |
-| last60d | 2026-09-07 | 3 | 36 | 27 | 31 | 24 | 247 |
-| 90d | 2026-08-08 | 7 | 57 | 33 | 54 | 33 | 393 |
-| last180d | 2026-05-10 | 16 | 91 | 40 | 125 | 48 | 801 |
-| 360d | 2025-11-11 | 28 | 152 | 43 | 246 | 62 | 1439 |
-| last720d | 2024-11-16 | 65 | 281 | 44 | 599 | 76 | 2803 |
+| 30d | 2026-10-08 | 2 | 16 | 12 | 13 | 16 | 70 |
+| last60d | 2026-09-08 | 3 | 36 | 26 | 31 | 24 | 248 |
+| 90d | 2026-08-09 | 7 | 57 | 33 | 53 | 33 | 394 |
+| last180d | 2026-05-11 | 16 | 92 | 40 | 123 | 48 | 802 |
+| 360d | 2025-11-12 | 27 | 153 | 43 | 246 | 62 | 1440 |
+| last720d | 2024-11-17 | 65 | 282 | 44 | 599 | 76 | 2804 |
 
 ## Release assets
 
@@ -130,7 +130,7 @@ Total: **137,810** lines of code across **918** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **162** distros on [repology.org](https://repology.org/project/fastfetch). **3** are ✅ on the latest upstream release, **130** are ⚠️ on an older version.
+Reported by **167** distros on [repology.org](https://repology.org/project/fastfetch). **22** are ✅ on the latest upstream release, **116** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -143,7 +143,7 @@ Reported by **162** distros on [repology.org](https://repology.org/project/fastf
 | Fedora rawhide | `2.70.0` | ⚠️ outdated |
 | Nix unstable | `2.70.0` | ⚠️ outdated |
 | Void | `2.70.0` | ⚠️ outdated |
-| Alpine edge | `2.70.0` | ⚠️ outdated |
+| Alpine edge | `2.71.0` | ✅ latest |
 | openSUSE Tumbleweed | `2.70.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -155,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:09:23Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:23:04Z._
