@@ -14,11 +14,11 @@ x install fastfetch
 
 ## Code insight
 
-Total: **137,990** lines of code across **919** files in the top 5 languages.
+Total: **138,036** lines of code across **919** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 97,079 | 7,478 | 14,432 | 531 |
+| C | 97,125 | 7,485 | 14,442 | 531 |
 | CHeader | 20,710 | 12,295 | 4,117 | 330 |
 | Json | 6,120 | 0 | 2 | 6 |
 | Bitbake | 5,939 | 1,168 | 26 | 26 |
@@ -32,27 +32,27 @@ Total: **137,990** lines of code across **919** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.71.0` (2026-11-06)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-09
 - **Assets in release**: 69
 
 ## Popularity
 
-- **Stars**: 25,298 · **Forks**: 941 · **Open issues**: 1,411 · **Contributors**: 259
+- **Stars**: 25,310 · **Forks**: 942 · **Open issues**: 1,411 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 45 · **Closed issues**: 1333 · **Open issues**: 78 · **Commits**: 8047
+- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 46 · **Closed issues**: 1333 · **Open issues**: 78 · **Commits**: 8050
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 16 | 12 | 13 | 16 | 71 |
-| last60d | 2026-09-09 | 3 | 36 | 26 | 31 | 24 | 249 |
-| 90d | 2026-08-10 | 7 | 57 | 33 | 52 | 31 | 395 |
-| last180d | 2026-05-12 | 16 | 92 | 40 | 121 | 48 | 803 |
-| 360d | 2025-11-13 | 27 | 153 | 43 | 244 | 62 | 1441 |
-| last720d | 2024-11-18 | 65 | 279 | 44 | 599 | 75 | 2806 |
+| 30d | 2026-10-10 | 2 | 15 | 13 | 13 | 16 | 35 |
+| last60d | 2026-09-10 | 3 | 36 | 26 | 30 | 24 | 221 |
+| 90d | 2026-08-11 | 7 | 55 | 34 | 49 | 31 | 364 |
+| last180d | 2026-05-13 | 16 | 90 | 41 | 120 | 48 | 767 |
+| 360d | 2025-11-14 | 27 | 153 | 44 | 243 | 60 | 1431 |
+| last720d | 2024-11-19 | 63 | 278 | 45 | 598 | 75 | 2799 |
 
 ## Release assets
 
@@ -130,7 +130,7 @@ Total: **137,990** lines of code across **919** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **169** distros on [repology.org](https://repology.org/project/fastfetch). **31** are ✅ on the latest upstream release, **108** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/fastfetch). **35** are ✅ on the latest upstream release, **101** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -138,7 +138,7 @@ Reported by **169** distros on [repology.org](https://repology.org/project/fastf
 | Debian 14 | `2.69.0` | ⚠️ outdated |
 | Debian 13 | `2.40.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.57.1` | ⚠️ outdated |
-| Arch | `2.70.0` | ⚠️ outdated |
+| Arch | `2.71.0` | ✅ latest |
 | Homebrew | `2.71.0` | ✅ latest |
 | Fedora rawhide | `2.70.0` | ⚠️ outdated |
 | Nix unstable | `2.70.0` | ⚠️ outdated |
@@ -155,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:25:32Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:58:46Z._
