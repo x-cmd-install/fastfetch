@@ -37,7 +37,7 @@ x install fastfetch
 
 ## 流行度
 
-- **Star**: 25,310 · **Fork**: 942 · **开放 issue**: 1,411 · **贡献者**: 259
+- **Star**: 25,320 · **Fork**: 943 · **开放 issue**: 1,411 · **贡献者**: 259
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install fastfetch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 15 | 13 | 13 | 16 | 35 |
-| last60d | 2026-09-10 | 3 | 36 | 26 | 30 | 24 | 221 |
-| 90d | 2026-08-11 | 7 | 55 | 34 | 49 | 31 | 364 |
-| last180d | 2026-05-13 | 16 | 90 | 41 | 120 | 48 | 767 |
-| 360d | 2025-11-14 | 27 | 153 | 44 | 243 | 60 | 1431 |
-| last720d | 2024-11-19 | 63 | 278 | 45 | 598 | 75 | 2799 |
+| 30d | 2026-10-11 | 2 | 14 | 13 | 13 | 16 | 35 |
+| last60d | 2026-09-11 | 3 | 36 | 26 | 30 | 24 | 221 |
+| 90d | 2026-08-12 | 7 | 55 | 34 | 49 | 31 | 364 |
+| last180d | 2026-05-14 | 14 | 90 | 40 | 120 | 48 | 767 |
+| 360d | 2025-11-15 | 27 | 151 | 44 | 242 | 60 | 1431 |
+| last720d | 2024-11-20 | 63 | 278 | 45 | 598 | 75 | 2798 |
 
 ## Release 资产
 
@@ -130,12 +130,12 @@ x install fastfetch
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/fastfetch) 上共有 **166** 个发行版报告此项目。**35** 个 ✅ 已是最新上游版本，**101** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/fastfetch) 上共有 **166** 个发行版报告此项目。**38** 个 ✅ 已是最新上游版本，**98** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `2.70.0` | ⚠️ outdated |
-| Debian 14 | `2.69.0` | ⚠️ outdated |
+| Debian 14 | `2.70.0` | ⚠️ outdated |
 | Debian 13 | `2.40.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.57.1` | ⚠️ outdated |
 | Arch | `2.71.0` | ✅ latest |
@@ -144,7 +144,7 @@ x install fastfetch
 | Nix unstable | `2.70.0` | ⚠️ outdated |
 | Void | `2.70.0` | ⚠️ outdated |
 | Alpine edge | `2.71.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.70.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.71.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -155,4 +155,4 @@ fastfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:58:46Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:49:26Z._
