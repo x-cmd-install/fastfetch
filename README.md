@@ -37,22 +37,22 @@ Total: **138,026** lines of code across **919** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,331 · **Forks**: 944 · **Open issues**: 1,411 · **Contributors**: 259
+- **Stars**: 25,343 · **Forks**: 945 · **Open issues**: 1,412 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 45 · **Closed issues**: 1334 · **Open issues**: 77 · **Commits**: 8051
+- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 46 · **Closed issues**: 1334 · **Open issues**: 78 · **Commits**: 8051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 14 | 13 | 12 | 15 | 36 |
-| last60d | 2026-09-12 | 3 | 36 | 26 | 29 | 23 | 222 |
-| 90d | 2026-08-13 | 7 | 54 | 33 | 48 | 31 | 365 |
-| last180d | 2026-05-15 | 14 | 90 | 39 | 120 | 48 | 768 |
-| 360d | 2025-11-16 | 27 | 148 | 43 | 242 | 60 | 1432 |
-| last720d | 2024-11-21 | 63 | 278 | 44 | 598 | 74 | 2786 |
+| 30d | 2026-10-13 | 2 | 14 | 14 | 12 | 16 | 36 |
+| last60d | 2026-09-13 | 3 | 34 | 27 | 28 | 23 | 222 |
+| 90d | 2026-08-14 | 7 | 52 | 34 | 48 | 32 | 365 |
+| last180d | 2026-05-16 | 14 | 90 | 40 | 119 | 49 | 768 |
+| 360d | 2025-11-17 | 26 | 148 | 44 | 242 | 61 | 1432 |
+| last720d | 2024-11-22 | 63 | 278 | 45 | 598 | 75 | 2782 |
 
 ## Release assets
 
@@ -130,7 +130,7 @@ Total: **138,026** lines of code across **919** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **166** distros on [repology.org](https://repology.org/project/fastfetch). **40** are ✅ on the latest upstream release, **96** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/fastfetch). **41** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -155,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:58:37Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:52:35Z._
