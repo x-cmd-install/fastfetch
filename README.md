@@ -37,22 +37,22 @@ Total: **138,026** lines of code across **919** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,343 · **Forks**: 945 · **Open issues**: 1,412 · **Contributors**: 259
+- **Stars**: 25,349 · **Forks**: 947 · **Open issues**: 1,413 · **Contributors**: 258
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 46 · **Closed issues**: 1334 · **Open issues**: 78 · **Commits**: 8051
+- **Releases**: 188 · **Merged PRs**: 711 · **Open PRs**: 48 · **Closed issues**: 1334 · **Open issues**: 79 · **Commits**: 8051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 14 | 14 | 12 | 16 | 36 |
-| last60d | 2026-09-13 | 3 | 34 | 27 | 28 | 23 | 222 |
-| 90d | 2026-08-14 | 7 | 52 | 34 | 48 | 32 | 365 |
-| last180d | 2026-05-16 | 14 | 90 | 40 | 119 | 49 | 768 |
-| 360d | 2025-11-17 | 26 | 148 | 44 | 242 | 61 | 1432 |
-| last720d | 2024-11-22 | 63 | 278 | 45 | 598 | 75 | 2782 |
+| 30d | 2026-10-14 | 2 | 13 | 16 | 12 | 17 | 36 |
+| last60d | 2026-09-14 | 3 | 34 | 29 | 27 | 24 | 222 |
+| 90d | 2026-08-15 | 6 | 52 | 35 | 47 | 32 | 365 |
+| last180d | 2026-05-17 | 14 | 90 | 42 | 119 | 50 | 768 |
+| 360d | 2025-11-18 | 26 | 148 | 46 | 241 | 62 | 1432 |
+| last720d | 2024-11-23 | 63 | 278 | 47 | 596 | 76 | 2777 |
 
 ## Release assets
 
@@ -130,11 +130,11 @@ Total: **138,026** lines of code across **919** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **166** distros on [repology.org](https://repology.org/project/fastfetch). **41** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/fastfetch). **44** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.70.0` | ⚠️ outdated |
+| Debian unstable | `2.71.0` | ✅ latest |
 | Debian 14 | `2.70.0` | ⚠️ outdated |
 | Debian 13 | `2.40.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.57.1` | ⚠️ outdated |
@@ -155,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:52:35Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:20:47Z._
