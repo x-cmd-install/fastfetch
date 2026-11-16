@@ -1,25 +1,17 @@
-- repo: manjaro_stable
-  subrepo: extra
+- repo: deepin_23
+  subrepo: community
   srcname: fastfetch
-  binname: fastfetch
+  binnames:
+    - fastfetch
   visiblename: fastfetch
-  version: 2.69.0
-  origversion: 2.69.0-1
+  version: 2.23.0
+  origversion: 2.23.0-0deepin1
   status: outdated
-  summary: A feature-rich and performance oriented neofetch like system information tool
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: fastfetch
-  binname: fastfetch
-  visiblename: fastfetch
-  version: 2.71.0
-  origversion: 2.71.0-1
-  status: newest
-  summary: A feature-rich and performance oriented neofetch like system information tool
-  licenses:
-    - MIT
+  maintainers:
+    - xiangzelong@deepin.org
+    - xoas@airmail.cc
+  categories:
+    - utils
 - repo: adelie_current
   subrepo: user
   srcname: fastfetch
@@ -237,20 +229,6 @@
     - fossdd@pwned.life
   licenses:
     - MIT
-- repo: deepin_23
-  subrepo: community
-  srcname: fastfetch
-  binnames:
-    - fastfetch
-  visiblename: fastfetch
-  version: 2.23.0
-  origversion: 2.23.0-0deepin1
-  status: outdated
-  maintainers:
-    - xiangzelong@deepin.org
-    - xoas@airmail.cc
-  categories:
-    - utils
 - repo: alpine_3_22
   subrepo: community
   srcname: fastfetch
@@ -262,110 +240,6 @@
   summary: Zsh completions for fastfetch
   maintainers:
     - fossdd@pwned.life
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch
-  visiblename: fastfetch
-  version: 2.56.0
-  origversion: 2.56.0-r0
-  status: outdated
-  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch-bash-completion
-  visiblename: fastfetch-bash-completion
-  version: 2.56.0
-  origversion: 2.56.0-r0
-  status: outdated
-  summary: Bash completions for fastfetch
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch-doc
-  visiblename: fastfetch-doc
-  version: 2.56.0
-  origversion: 2.56.0-r0
-  status: outdated
-  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool (documentation)
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch-fish-completion
-  visiblename: fastfetch-fish-completion
-  version: 2.56.0
-  origversion: 2.56.0-r0
-  status: outdated
-  summary: Fish completions for fastfetch
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch-zsh-completion
-  visiblename: fastfetch-zsh-completion
-  version: 2.56.0
-  origversion: 2.56.0-r0
-  status: outdated
-  summary: Zsh completions for fastfetch
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch
-  visiblename: fastfetch
-  version: 2.64.2
-  origversion: 2.64.2-r0
-  status: outdated
-  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch-bash-completion
-  visiblename: fastfetch-bash-completion
-  version: 2.64.2
-  origversion: 2.64.2-r0
-  status: outdated
-  summary: Bash completions for fastfetch
-  maintainers:
-    - achill@achill.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fastfetch
-  binname: fastfetch-doc
-  visiblename: fastfetch-doc
-  version: 2.64.2
-  origversion: 2.64.2-r0
-  status: outdated
-  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool (documentation)
-  maintainers:
-    - achill@achill.org
   licenses:
     - MIT
 - repo: deepin_23
@@ -381,6 +255,110 @@
     - xiangzelong@deepin.org
   categories:
     - utils
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch
+  visiblename: fastfetch
+  version: 2.56.0
+  origversion: 2.56.0-r0
+  status: outdated
+  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch-bash-completion
+  visiblename: fastfetch-bash-completion
+  version: 2.56.0
+  origversion: 2.56.0-r0
+  status: outdated
+  summary: Bash completions for fastfetch
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch-doc
+  visiblename: fastfetch-doc
+  version: 2.56.0
+  origversion: 2.56.0-r0
+  status: outdated
+  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool (documentation)
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch-fish-completion
+  visiblename: fastfetch-fish-completion
+  version: 2.56.0
+  origversion: 2.56.0-r0
+  status: outdated
+  summary: Fish completions for fastfetch
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch-zsh-completion
+  visiblename: fastfetch-zsh-completion
+  version: 2.56.0
+  origversion: 2.56.0-r0
+  status: outdated
+  summary: Zsh completions for fastfetch
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch
+  visiblename: fastfetch
+  version: 2.64.2
+  origversion: 2.64.2-r0
+  status: outdated
+  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch-bash-completion
+  visiblename: fastfetch-bash-completion
+  version: 2.64.2
+  origversion: 2.64.2-r0
+  status: outdated
+  summary: Bash completions for fastfetch
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fastfetch
+  binname: fastfetch-doc
+  visiblename: fastfetch-doc
+  version: 2.64.2
+  origversion: 2.64.2-r0
+  status: outdated
+  summary: Maintained, feature-rich and performance oriented, neofetch-like system information tool (documentation)
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: fastfetch
@@ -394,6 +372,19 @@
     - achill@achill.org
   licenses:
     - MIT
+- repo: deepin_25
+  subrepo: community
+  srcname: fastfetch
+  binnames:
+    - fastfetch
+  visiblename: fastfetch
+  version: 2.40.4
+  origversion: 2.40.4+dfsg-1
+  status: outdated
+  maintainers:
+    - hiagofranco@gmail.com
+    - charlesmelara@riseup.net
+    - maytham@debian.org
 - repo: alpine_3_24
   subrepo: community
   srcname: fastfetch
@@ -518,6 +509,17 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
+- repo: arch
+  subrepo: extra
+  srcname: fastfetch
+  binname: fastfetch
+  visiblename: fastfetch
+  version: 2.71.0
+  origversion: 2.71.0-1
+  status: newest
+  summary: A feature-rich and performance oriented neofetch like system information tool
+  licenses:
+    - MIT
 - repo: aur
   srcname: fastfetch-git
   binname: fastfetch-git
@@ -678,19 +680,6 @@
     - maytham@debian.org
   categories:
     - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: fastfetch
-  binnames:
-    - fastfetch
-  visiblename: fastfetch
-  version: 2.40.4
-  origversion: 2.40.4+dfsg-1
-  status: outdated
-  maintainers:
-    - hiagofranco@gmail.com
-    - charlesmelara@riseup.net
-    - maytham@debian.org
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: fastfetch
@@ -760,6 +749,23 @@
   categories:
     - app-misc
 - repo: fedora_39
+  subrepo: release
+  srcname: fastfetch
+  binnames:
+    - fastfetch
+    - fastfetch-bash-completion
+    - fastfetch-debuginfo
+    - fastfetch-debugsource
+  visiblename: fastfetch
+  version: 2.0.2
+  origversion: 2.0.2-1.fc39
+  status: legacy
+  summary: Like neofetch, but much faster because written in c
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
   subrepo: updates
   srcname: fastfetch
   binnames:
@@ -773,23 +779,6 @@
   version: 2.29.0
   origversion: 2.29.0-1.fc39
   status: outdated
-  summary: Like neofetch, but much faster because written in c
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
-  subrepo: release
-  srcname: fastfetch
-  binnames:
-    - fastfetch
-    - fastfetch-bash-completion
-    - fastfetch-debuginfo
-    - fastfetch-debugsource
-  visiblename: fastfetch
-  version: 2.0.2
-  origversion: 2.0.2-1.fc39
-  status: legacy
   summary: Like neofetch, but much faster because written in c
   licenses:
     - MIT
@@ -830,20 +819,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: updates
-  srcname: fastfetch
-  binnames:
-    - fastfetch
-  visiblename: fastfetch
-  version: 2.48.1
-  origversion: 2.48.1-1.fc41
-  status: outdated
-  summary: Fast neofetch-like system information tool
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: release
   srcname: fastfetch
   binnames:
@@ -856,6 +831,20 @@
   origversion: 2.27.1-1.fc41
   status: legacy
   summary: Like neofetch, but much faster because written in c
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: fastfetch
+  binnames:
+    - fastfetch
+  visiblename: fastfetch
+  version: 2.48.1
+  origversion: 2.48.1-1.fc41
+  status: outdated
+  summary: Fast neofetch-like system information tool
   licenses:
     - MIT
   categories:
@@ -958,17 +947,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: fastfetch
-  binname: fastfetch
-  visiblename: fastfetch
-  version: 2.71.0
-  origversion: 2.71.0-1
-  status: newest
-  summary: A feature-rich and performance oriented neofetch like system information tool
-  licenses:
-    - MIT
 - repo: freebsd
   srcname: sysutils/fastfetch
   binname: fastfetch
@@ -986,7 +964,7 @@
   visiblename: app-misc/fastfetch
   version: 2.70.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Fast neofetch-like system information tool
   maintainers:
     - ceamac@gentoo.org
@@ -1000,6 +978,19 @@
   version: 0.2.9999
   origversion: null
   status: rolling
+  summary: Fast neofetch-like system information tool
+  maintainers:
+    - ceamac@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: gentoo
+  srcname: app-misc/fastfetch
+  visiblename: app-misc/fastfetch
+  version: 2.71.0
+  origversion: null
+  status: newest
   summary: Fast neofetch-like system information tool
   maintainers:
     - ceamac@gentoo.org
@@ -1172,6 +1163,19 @@
 - repo: liguros_develop
   srcname: app-misc/fastfetch
   visiblename: app-misc/fastfetch
+  version: 2.71.0
+  origversion: null
+  status: newest
+  summary: Fast neofetch-like system information tool
+  maintainers:
+    - ceamac@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/fastfetch
+  visiblename: app-misc/fastfetch
   version: 0.1.9999
   origversion: null
   status: rolling
@@ -1187,7 +1191,7 @@
   visiblename: app-misc/fastfetch
   version: 2.70.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Fast neofetch-like system information tool
   maintainers:
     - ceamac@gentoo.org
@@ -1237,6 +1241,28 @@
     - MIT
   categories:
     - System/Configuration
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: fastfetch
+  binname: fastfetch
+  visiblename: fastfetch
+  version: 2.69.0
+  origversion: 2.69.0-1
+  status: outdated
+  summary: A feature-rich and performance oriented neofetch like system information tool
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: fastfetch
+  binname: fastfetch
+  visiblename: fastfetch
+  version: 2.71.0
+  origversion: 2.71.0-1
+  status: newest
+  summary: A feature-rich and performance oriented neofetch like system information tool
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: fastfetch
@@ -1742,8 +1768,8 @@
   srcname: fastfetch-git
   binname: fastfetch-git
   visiblename: fastfetch-git
-  version: 73368d36
-  origversion: 73368d36-1
+  version: 63a82100
+  origversion: 63a82100-1
   status: rolling
   summary: Like neofetch, but much faster because written in c
   maintainers:
