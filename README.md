@@ -18,7 +18,7 @@ Total: **139,175** lines of code across **923** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 98,163 | 7,534 | 14,607 | 534 |
+| C | 98,163 | 7,535 | 14,607 | 534 |
 | CHeader | 20,793 | 12,316 | 4,134 | 331 |
 | Json | 6,128 | 0 | 2 | 6 |
 | Bitbake | 5,929 | 1,166 | 26 | 26 |
@@ -32,27 +32,27 @@ Total: **139,175** lines of code across **923** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.71.0` (2026-11-06)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 69
 
 ## Popularity
 
-- **Stars**: 25,410 · **Forks**: 947 · **Open issues**: 1,419 · **Contributors**: 260
+- **Stars**: 25,414 · **Forks**: 947 · **Open issues**: 1,419 · **Contributors**: 261
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 718 · **Open PRs**: 51 · **Closed issues**: 1339 · **Open issues**: 80 · **Commits**: 8069
+- **Releases**: 188 · **Merged PRs**: 720 · **Open PRs**: 50 · **Closed issues**: 1340 · **Open issues**: 79 · **Commits**: 8071
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 18 | 19 | 15 | 15 | 52 |
-| last60d | 2026-09-20 | 3 | 38 | 31 | 29 | 25 | 184 |
-| 90d | 2026-08-21 | 6 | 54 | 36 | 49 | 29 | 354 |
-| last180d | 2026-05-23 | 14 | 96 | 45 | 121 | 50 | 759 |
-| 360d | 2025-11-24 | 26 | 155 | 49 | 242 | 63 | 1436 |
-| last720d | 2024-11-29 | 63 | 281 | 50 | 596 | 76 | 2779 |
+| 30d | 2026-10-21 | 1 | 20 | 17 | 16 | 13 | 54 |
+| last60d | 2026-09-21 | 3 | 39 | 30 | 29 | 24 | 186 |
+| 90d | 2026-08-22 | 6 | 56 | 35 | 50 | 28 | 356 |
+| last180d | 2026-05-24 | 14 | 98 | 44 | 122 | 49 | 761 |
+| 360d | 2025-11-25 | 26 | 157 | 48 | 243 | 62 | 1438 |
+| last720d | 2024-11-30 | 63 | 283 | 49 | 597 | 75 | 2779 |
 
 ## Release assets
 
@@ -130,7 +130,7 @@ Total: **139,175** lines of code across **923** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **169** distros on [repology.org](https://repology.org/project/fastfetch). **52** are ✅ on the latest upstream release, **85** are ⚠️ on an older version.
+Reported by **169** distros on [repology.org](https://repology.org/project/fastfetch). **53** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -155,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:35:21Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:06:40Z._
