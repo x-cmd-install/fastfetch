@@ -32,27 +32,27 @@ Total: **139,175** lines of code across **923** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.71.0` (2026-11-06)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 69
 
 ## Popularity
 
-- **Stars**: 25,414 · **Forks**: 947 · **Open issues**: 1,419 · **Contributors**: 261
+- **Stars**: 25,423 · **Forks**: 949 · **Open issues**: 1,420 · **Contributors**: 262
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 720 · **Open PRs**: 50 · **Closed issues**: 1340 · **Open issues**: 79 · **Commits**: 8071
+- **Releases**: 188 · **Merged PRs**: 721 · **Open PRs**: 50 · **Closed issues**: 1340 · **Open issues**: 80 · **Commits**: 8072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 20 | 17 | 16 | 13 | 54 |
-| last60d | 2026-09-21 | 3 | 39 | 30 | 29 | 24 | 186 |
-| 90d | 2026-08-22 | 6 | 56 | 35 | 50 | 28 | 356 |
-| last180d | 2026-05-24 | 14 | 98 | 44 | 122 | 49 | 761 |
-| 360d | 2025-11-25 | 26 | 157 | 48 | 243 | 62 | 1438 |
-| last720d | 2024-11-30 | 63 | 283 | 49 | 597 | 75 | 2779 |
+| 30d | 2026-10-22 | 1 | 20 | 17 | 15 | 13 | 55 |
+| last60d | 2026-09-22 | 3 | 40 | 28 | 29 | 25 | 187 |
+| 90d | 2026-08-23 | 6 | 56 | 35 | 49 | 29 | 357 |
+| last180d | 2026-05-25 | 14 | 99 | 44 | 122 | 50 | 762 |
+| 360d | 2025-11-26 | 26 | 158 | 48 | 243 | 63 | 1439 |
+| last720d | 2024-12-01 | 63 | 284 | 49 | 596 | 76 | 2779 |
 
 ## Release assets
 
@@ -155,4 +155,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:06:40Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:38:31Z._
