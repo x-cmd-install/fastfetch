@@ -37,22 +37,22 @@ x install fastfetch
 
 ## 流行度
 
-- **Star**: 25,442 · **Fork**: 951 · **开放 issue**: 1,422 · **贡献者**: 263
+- **Star**: 25,449 · **Fork**: 953 · **开放 issue**: 1,425 · **贡献者**: 263
 
 ## 累计统计
 
-- **发布数**: 188 · **已合并 PR**: 724 · **开放 PR**: 53 · **已关闭 issue**: 1341 · **开放 issue**: 81 · **提交数**: 8081
+- **发布数**: 188 · **已合并 PR**: 724 · **开放 PR**: 54 · **已关闭 issue**: 1342 · **开放 issue**: 83 · **提交数**: 8081
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 22 | 17 | 12 | 13 | 58 |
-| last60d | 2026-09-25 | 3 | 40 | 26 | 26 | 25 | 146 |
-| 90d | 2026-08-26 | 6 | 59 | 38 | 47 | 30 | 322 |
-| last180d | 2026-05-28 | 14 | 101 | 46 | 120 | 50 | 712 |
-| 360d | 2025-11-29 | 26 | 159 | 51 | 242 | 64 | 1437 |
-| last720d | 2024-12-04 | 62 | 286 | 52 | 595 | 77 | 2782 |
+| 30d | 2026-10-26 | 1 | 22 | 15 | 11 | 14 | 58 |
+| last60d | 2026-09-26 | 2 | 39 | 27 | 26 | 27 | 146 |
+| 90d | 2026-08-27 | 6 | 59 | 39 | 47 | 32 | 322 |
+| last180d | 2026-05-29 | 14 | 101 | 47 | 118 | 52 | 712 |
+| 360d | 2025-11-30 | 26 | 159 | 52 | 241 | 66 | 1437 |
+| last720d | 2024-12-05 | 62 | 286 | 53 | 596 | 79 | 2781 |
 
 ## Release 资产
 
@@ -128,24 +128,6 @@ x install fastfetch
 | [fastfetch-windows-amd64.7z](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-windows-amd64.7z) | 792.6 KiB | `native/win/x64` |
 | [fastfetch-windows-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-windows-amd64.zip) | 1.4 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/fastfetch) 上共有 **169** 个发行版报告此项目。**55** 个 ✅ 已是最新上游版本，**82** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.71.0` | ✅ latest |
-| Debian 14 | `2.71.0` | ✅ latest |
-| Debian 13 | `2.40.4` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.57.1` | ⚠️ outdated |
-| Arch | `2.71.0` | ✅ latest |
-| Homebrew | `2.71.0` | ✅ latest |
-| Fedora rawhide | `2.71.0` | ✅ latest |
-| Nix unstable | `2.71.0` | ✅ latest |
-| Void | `2.71.0` | ✅ latest |
-| Alpine edge | `2.71.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.71.0` | ✅ latest |
-
 ## 改进这些数据
 
 fastfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `fastfetch` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -155,4 +137,4 @@ fastfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:09:55Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:58:26Z._
