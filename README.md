@@ -37,22 +37,22 @@ Total: **139,326** lines of code across **924** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,449 · **Forks**: 953 · **Open issues**: 1,425 · **Contributors**: 263
+- **Stars**: 25,467 · **Forks**: 953 · **Open issues**: 1,427 · **Contributors**: 263
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 724 · **Open PRs**: 54 · **Closed issues**: 1342 · **Open issues**: 83 · **Commits**: 8081
+- **Releases**: 188 · **Merged PRs**: 724 · **Open PRs**: 53 · **Closed issues**: 1344 · **Open issues**: 83 · **Commits**: 8081
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 22 | 15 | 11 | 14 | 58 |
-| last60d | 2026-09-26 | 2 | 39 | 27 | 26 | 27 | 146 |
-| 90d | 2026-08-27 | 6 | 59 | 39 | 47 | 32 | 322 |
-| last180d | 2026-05-29 | 14 | 101 | 47 | 118 | 52 | 712 |
-| 360d | 2025-11-30 | 26 | 159 | 52 | 241 | 66 | 1437 |
-| last720d | 2024-12-05 | 62 | 286 | 53 | 596 | 79 | 2781 |
+| 30d | 2026-10-27 | 1 | 22 | 14 | 10 | 14 | 58 |
+| last60d | 2026-09-27 | 2 | 37 | 25 | 25 | 28 | 146 |
+| 90d | 2026-08-28 | 6 | 59 | 38 | 47 | 33 | 322 |
+| last180d | 2026-05-30 | 14 | 99 | 46 | 119 | 51 | 712 |
+| 360d | 2025-12-01 | 26 | 159 | 51 | 243 | 65 | 1437 |
+| last720d | 2024-12-06 | 62 | 286 | 52 | 597 | 79 | 2779 |
 
 ## Release assets
 
@@ -137,4 +137,4 @@ Install metadata for fastfetch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:58:25Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:41:13Z._
