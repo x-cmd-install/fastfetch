@@ -14,11 +14,11 @@ x install fastfetch
 
 ## 代码洞察
 
-合计: **139,327** 行代码（覆盖前 5 种语言、共 **924** 个文件）。
+合计: **139,363** 行代码（覆盖前 5 种语言、共 **925** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 98,304 | 7,542 | 14,637 | 534 |
+| C | 98,328 | 7,542 | 14,638 | 535 |
 | CHeader | 20,799 | 12,316 | 4,135 | 332 |
 | Json | 6,128 | 0 | 2 | 6 |
 | Bitbake | 5,929 | 1,166 | 26 | 26 |
@@ -31,102 +31,98 @@ x install fastfetch
 
 ## 发布
 
-- **最新版本**: `2.71.0` (2026-11-06)
-- **最近提交**: 2026-11-26
-- **Release 含资产**: 69 个
+- **最新版本**: `2.72.0` (2026-11-28)
+- **最近提交**: 2026-11-28
+- **Release 含资产**: 65 个
 
 ## 流行度
 
-- **Star**: 25,482 · **Fork**: 956 · **开放 issue**: 1,428 · **贡献者**: 263
+- **Star**: 25,496 · **Fork**: 958 · **开放 issue**: 1,430 · **贡献者**: 263
 
 ## 累计统计
 
-- **发布数**: 188 · **已合并 PR**: 724 · **开放 PR**: 54 · **已关闭 issue**: 1344 · **开放 issue**: 84 · **提交数**: 8082
+- **发布数**: 189 · **已合并 PR**: 725 · **开放 PR**: 57 · **已关闭 issue**: 1345 · **开放 issue**: 85 · **提交数**: 8086
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 21 | 14 | 10 | 15 | 59 |
-| last60d | 2026-09-28 | 2 | 35 | 26 | 25 | 29 | 147 |
-| 90d | 2026-08-29 | 6 | 59 | 38 | 47 | 34 | 323 |
-| last180d | 2026-05-31 | 14 | 99 | 47 | 118 | 52 | 713 |
-| 360d | 2025-12-02 | 26 | 158 | 52 | 243 | 66 | 1438 |
-| last720d | 2024-12-07 | 62 | 286 | 53 | 596 | 80 | 2777 |
+| 30d | 2026-10-29 | 2 | 22 | 17 | 9 | 16 | 0 |
+| last60d | 2026-09-29 | 3 | 36 | 29 | 26 | 30 | 0 |
+| 90d | 2026-08-30 | 7 | 58 | 41 | 47 | 35 | 0 |
+| last180d | 2026-06-01 | 15 | 100 | 50 | 117 | 53 | 0 |
+| 360d | 2025-12-03 | 27 | 159 | 55 | 243 | 67 | 0 |
+| last720d | 2024-12-08 | 63 | 287 | 56 | 597 | 81 | 2781 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [fastfetch-android-aarch64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-android-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
-| [fastfetch-android-aarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-android-aarch64.zip) | 1.1 MiB | `other` |
-| [fastfetch-android-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-android-amd64.tar.gz) | 1.2 MiB | `native/linux/x64` |
-| [fastfetch-android-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-android-amd64.zip) | 1.2 MiB | `other` |
-| [fastfetch-android-armv7-a.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-android-armv7-a.tar.gz) | 1.1 MiB | `native/linux/arm` |
-| [fastfetch-android-armv7-a.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-android-armv7-a.zip) | 1.1 MiB | `other` |
-| [fastfetch-dragonfly-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-dragonfly-amd64.tar.gz) | 1.3 MiB | `native/linux/x64` |
-| [fastfetch-dragonfly-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-dragonfly-amd64.zip) | 1.3 MiB | `other` |
-| [fastfetch-freebsd-amd64.pkg](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-freebsd-amd64.pkg) | 781.4 KiB | `other` |
-| [fastfetch-freebsd-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-freebsd-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-freebsd-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-freebsd-amd64.zip) | 1.4 MiB | `other` |
-| [fastfetch-haiku-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-haiku-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [fastfetch-haiku-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-haiku-amd64.zip) | 1.7 MiB | `other` |
-| [fastfetch-linux-aarch64-polyfilled.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64-polyfilled.deb) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64-polyfilled.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64-polyfilled.rpm) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64-polyfilled.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64-polyfilled.tar.gz) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64-polyfilled.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64-polyfilled.zip) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64.deb) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64.rpm) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-aarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-aarch64.zip) | 1.5 MiB | `native/linux/arm64` |
-| [fastfetch-linux-amd64-polyfilled.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64-polyfilled.deb) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64-polyfilled.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64-polyfilled.rpm) | 1.5 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64-polyfilled.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64-polyfilled.tar.gz) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64-polyfilled.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64-polyfilled.zip) | 1.5 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64.deb) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64.rpm) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-linux-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-amd64.zip) | 1.5 MiB | `native/linux/x64` |
-| [fastfetch-linux-armv7l.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-armv7l.deb) | 6.4 MiB | `native/linux/arm` |
-| [fastfetch-linux-armv7l.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-armv7l.rpm) | 1.1 MiB | `native/linux/arm` |
-| [fastfetch-linux-armv7l.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-armv7l.tar.gz) | 6.4 MiB | `native/linux/arm` |
-| [fastfetch-linux-armv7l.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-armv7l.zip) | 6.4 MiB | `native/linux/arm` |
-| [fastfetch-linux-i686.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-i686.deb) | 1.5 MiB | `native/linux/x86` |
-| [fastfetch-linux-i686.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-i686.rpm) | 1.5 MiB | `native/linux/x86` |
-| [fastfetch-linux-i686.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-i686.tar.gz) | 1.5 MiB | `native/linux/x86` |
-| [fastfetch-linux-i686.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-i686.zip) | 1.6 MiB | `native/linux/x86` |
-| [fastfetch-linux-loongarch64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-loongarch64.deb) | 6.5 MiB | `other` |
-| [fastfetch-linux-loongarch64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-loongarch64.rpm) | 4.9 MiB | `other` |
-| [fastfetch-linux-loongarch64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-loongarch64.tar.gz) | 6.5 MiB | `native/unknown` |
-| [fastfetch-linux-loongarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-loongarch64.zip) | 6.5 MiB | `other` |
-| [fastfetch-linux-ppc64le.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-ppc64le.deb) | 6.7 MiB | `other` |
-| [fastfetch-linux-ppc64le.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-ppc64le.rpm) | 1.3 MiB | `other` |
-| [fastfetch-linux-ppc64le.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-ppc64le.tar.gz) | 6.7 MiB | `native/unknown` |
-| [fastfetch-linux-ppc64le.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-ppc64le.zip) | 6.7 MiB | `other` |
-| [fastfetch-linux-riscv64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-riscv64.deb) | 6.1 MiB | `native/linux/riscv64` |
-| [fastfetch-linux-riscv64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-riscv64.rpm) | 1.2 MiB | `native/linux/riscv64` |
-| [fastfetch-linux-riscv64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-riscv64.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
-| [fastfetch-linux-riscv64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-riscv64.zip) | 6.1 MiB | `native/linux/riscv64` |
-| [fastfetch-linux-s390x.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-s390x.deb) | 6.7 MiB | `other` |
-| [fastfetch-linux-s390x.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-s390x.rpm) | 1.3 MiB | `other` |
-| [fastfetch-linux-s390x.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-s390x.tar.gz) | 6.7 MiB | `native/unknown` |
-| [fastfetch-linux-s390x.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-linux-s390x.zip) | 6.7 MiB | `other` |
-| [fastfetch-macos-universal.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-macos-universal.tar.gz) | 2.0 MiB | `native/darwin/x64` |
-| [fastfetch-macos-universal.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-macos-universal.zip) | 2.0 MiB | `native/darwin/x64` |
-| [fastfetch-musl-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-musl-amd64.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
-| [fastfetch-musl-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-musl-amd64.zip) | 1.5 MiB | `other` |
-| [fastfetch-netbsd-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-netbsd-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-netbsd-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-netbsd-amd64.zip) | 1.5 MiB | `other` |
-| [fastfetch-omnios-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-omnios-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [fastfetch-omnios-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-omnios-amd64.zip) | 1.7 MiB | `other` |
-| [fastfetch-openbsd-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-openbsd-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
-| [fastfetch-openbsd-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-openbsd-amd64.zip) | 1.4 MiB | `other` |
-| [fastfetch-solaris-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-solaris-amd64.tar.gz) | 1.5 MiB | `native/linux/x64` |
-| [fastfetch-solaris-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-solaris-amd64.zip) | 1.5 MiB | `other` |
-| [fastfetch-windows-aarch64.7z](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-windows-aarch64.7z) | 726.1 KiB | `native/win/arm64` |
-| [fastfetch-windows-aarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-windows-aarch64.zip) | 1.3 MiB | `native/win/arm64` |
-| [fastfetch-windows-amd64.7z](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-windows-amd64.7z) | 792.6 KiB | `native/win/x64` |
-| [fastfetch-windows-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.71.0/fastfetch-windows-amd64.zip) | 1.4 MiB | `native/win/x64` |
+| [fastfetch-android-aarch64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-android-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
+| [fastfetch-android-aarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-android-aarch64.zip) | 1.1 MiB | `other` |
+| [fastfetch-android-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-android-amd64.tar.gz) | 1.2 MiB | `native/linux/x64` |
+| [fastfetch-android-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-android-amd64.zip) | 1.2 MiB | `other` |
+| [fastfetch-android-armv7-a.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-android-armv7-a.tar.gz) | 1.1 MiB | `native/linux/arm` |
+| [fastfetch-android-armv7-a.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-android-armv7-a.zip) | 1.1 MiB | `other` |
+| [fastfetch-freebsd-amd64.pkg](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-freebsd-amd64.pkg) | 783.8 KiB | `other` |
+| [fastfetch-freebsd-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-freebsd-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [fastfetch-freebsd-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-freebsd-amd64.zip) | 1.4 MiB | `other` |
+| [fastfetch-haiku-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-haiku-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [fastfetch-haiku-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-haiku-amd64.zip) | 1.8 MiB | `other` |
+| [fastfetch-linux-aarch64-polyfilled.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64-polyfilled.deb) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64-polyfilled.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64-polyfilled.rpm) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64-polyfilled.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64-polyfilled.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64-polyfilled.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64-polyfilled.zip) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64.deb) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64.rpm) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-aarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-aarch64.zip) | 1.5 MiB | `native/linux/arm64` |
+| [fastfetch-linux-amd64-polyfilled.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64-polyfilled.deb) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64-polyfilled.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64-polyfilled.rpm) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64-polyfilled.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64-polyfilled.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64-polyfilled.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64-polyfilled.zip) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64.deb) | 1.4 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64.rpm) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [fastfetch-linux-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-amd64.zip) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-linux-armv7l.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-armv7l.deb) | 6.4 MiB | `native/linux/arm` |
+| [fastfetch-linux-armv7l.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-armv7l.rpm) | 1.1 MiB | `native/linux/arm` |
+| [fastfetch-linux-armv7l.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-armv7l.tar.gz) | 6.4 MiB | `native/linux/arm` |
+| [fastfetch-linux-armv7l.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-armv7l.zip) | 6.4 MiB | `native/linux/arm` |
+| [fastfetch-linux-i686.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-i686.deb) | 1.5 MiB | `native/linux/x86` |
+| [fastfetch-linux-i686.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-i686.rpm) | 1.5 MiB | `native/linux/x86` |
+| [fastfetch-linux-i686.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-i686.tar.gz) | 1.5 MiB | `native/linux/x86` |
+| [fastfetch-linux-i686.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-i686.zip) | 1.6 MiB | `native/linux/x86` |
+| [fastfetch-linux-ppc64le.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-ppc64le.deb) | 6.7 MiB | `other` |
+| [fastfetch-linux-ppc64le.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-ppc64le.rpm) | 1.3 MiB | `other` |
+| [fastfetch-linux-ppc64le.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-ppc64le.tar.gz) | 6.7 MiB | `native/unknown` |
+| [fastfetch-linux-ppc64le.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-ppc64le.zip) | 6.7 MiB | `other` |
+| [fastfetch-linux-riscv64.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-riscv64.deb) | 6.2 MiB | `native/linux/riscv64` |
+| [fastfetch-linux-riscv64.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-riscv64.rpm) | 1.2 MiB | `native/linux/riscv64` |
+| [fastfetch-linux-riscv64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-riscv64.tar.gz) | 6.2 MiB | `native/linux/riscv64` |
+| [fastfetch-linux-riscv64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-riscv64.zip) | 6.2 MiB | `native/linux/riscv64` |
+| [fastfetch-linux-s390x.deb](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-s390x.deb) | 6.8 MiB | `other` |
+| [fastfetch-linux-s390x.rpm](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-s390x.rpm) | 1.3 MiB | `other` |
+| [fastfetch-linux-s390x.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-s390x.tar.gz) | 6.8 MiB | `native/unknown` |
+| [fastfetch-linux-s390x.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-linux-s390x.zip) | 6.8 MiB | `other` |
+| [fastfetch-macos-universal.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-macos-universal.tar.gz) | 2.0 MiB | `native/darwin/x64` |
+| [fastfetch-macos-universal.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-macos-universal.zip) | 2.0 MiB | `native/darwin/x64` |
+| [fastfetch-musl-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-musl-amd64.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
+| [fastfetch-musl-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-musl-amd64.zip) | 1.5 MiB | `other` |
+| [fastfetch-netbsd-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-netbsd-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [fastfetch-netbsd-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-netbsd-amd64.zip) | 1.5 MiB | `other` |
+| [fastfetch-omnios-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-omnios-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [fastfetch-omnios-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-omnios-amd64.zip) | 1.7 MiB | `other` |
+| [fastfetch-openbsd-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-openbsd-amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [fastfetch-openbsd-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-openbsd-amd64.zip) | 1.4 MiB | `other` |
+| [fastfetch-solaris-amd64.tar.gz](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-solaris-amd64.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [fastfetch-solaris-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-solaris-amd64.zip) | 1.5 MiB | `other` |
+| [fastfetch-windows-aarch64.7z](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-windows-aarch64.7z) | 730.4 KiB | `native/win/arm64` |
+| [fastfetch-windows-aarch64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-windows-aarch64.zip) | 1.4 MiB | `native/win/arm64` |
+| [fastfetch-windows-amd64.7z](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-windows-amd64.7z) | 798.6 KiB | `native/win/x64` |
+| [fastfetch-windows-amd64.zip](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/fastfetch-windows-amd64.zip) | 1.4 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/SHA256SUMS.txt) | 5.9 KiB | `other` |
+| [SHA512SUMS.txt](https://github.com/fastfetch-cli/fastfetch/releases/download/2.72.0/SHA512SUMS.txt) | 9.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -137,4 +133,4 @@ fastfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:11:37Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:29:36Z._
